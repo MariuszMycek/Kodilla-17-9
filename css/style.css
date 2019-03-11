@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css?family=Ubuntu");
+* {
+    font-family: "Ubuntu", sans-serif;
+}
+
+body {
+    background: #ecf0f1;
+}
+
+.container {
+    width: 100%;
+    max-width: 992px;
+    margin: 0 auto;
+}
+.container img {
+    max-width: 100%;
+}
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input {
+    display: block;
+}
